@@ -1,0 +1,4 @@
+#Thu Apr 25 11:57:42 CDT 2019
+base.0=/Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/out
+path.0=classes.dex
+renamed.0=classes.dex

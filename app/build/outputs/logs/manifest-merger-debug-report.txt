@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-41:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/285dd491748933db43740146a4e23f0e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/6ca1cd039b6d741178a240dd8d33d715/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/5d7832420423575dae2a0359cdb19c57/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/a67c34181de1d332c133c39e657d2073/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/981cdb5da18a8b00e3e543aa0bfefda5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/6f1220e4d55e378cccc1e5ccae8a9753/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/69d30055e9e4d63b16688d85d90ed0ce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/28e0e1263e15233b734e5df1b67035df/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/1f44705297b2b157ba20c9592e803feb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/a1228bc325a9366139c42593963dd1f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/bdc99b5eb0356fcbbdd83ed5790fa92b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/dbd0e6552da9aacc306f4e7512c3cac7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/bce965bb039a0021e1b016637c50ab43/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/802bda768b88f11e59a4ae7461c6cbbf/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/e212bca85c2196cd24c4e490bc218e38/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/e4b626f4a784bf9f1bafbe4847221c9f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/efb48cbcc28cff69998e3fd8dedf3816/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/de00a992fe37dc325f4ff5f428115824/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/68b1000ae4d0fc303027d492390e3d5b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/8aef503dba1d3a2cc9986656e238a1b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/77b162cb67693e298baeef0cd9784106/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/8f87af52b7f65b71086e0f25a31fcc35/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/306c81959da1cf167647bef0f1c61dae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/d58b6f69a0d24002c74df4108561e187/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/a323a96d6bde3f24ac92f34205eb8c2a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-41:12
+	package
+		ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:19:11-69
+		INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-41:12
+		INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-41:12
+		INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:21:22-66
+application
+ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:23:5-39:19
+MERGED from [androidx.core:core:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/802bda768b88f11e59a4ae7461c6cbbf/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/802bda768b88f11e59a4ae7461c6cbbf/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/e212bca85c2196cd24c4e490bc218e38/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/e212bca85c2196cd24c4e490bc218e38/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/802bda768b88f11e59a4ae7461c6cbbf/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:25:13-45
+	android:icon
+		ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:24:13-49
+	android:theme
+		ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:26:13-44
+activity#com.example.android.testing.espresso.BasicSample.DialerActivity
+ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:27:9-34:20
+	android:label
+		ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:29:17-49
+	android:name
+		ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:28:17-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:32:27-74
+activity#com.example.android.testing.espresso.BasicSample.ContactsActivity
+ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:35:9-37:51
+	android:label
+		ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:37:17-49
+	android:name
+		ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:36:17-49
+uses-sdk
+INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/285dd491748933db43740146a4e23f0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/285dd491748933db43740146a4e23f0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/6ca1cd039b6d741178a240dd8d33d715/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/6ca1cd039b6d741178a240dd8d33d715/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/5d7832420423575dae2a0359cdb19c57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/5d7832420423575dae2a0359cdb19c57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/a67c34181de1d332c133c39e657d2073/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/a67c34181de1d332c133c39e657d2073/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/981cdb5da18a8b00e3e543aa0bfefda5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/981cdb5da18a8b00e3e543aa0bfefda5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/6f1220e4d55e378cccc1e5ccae8a9753/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/6f1220e4d55e378cccc1e5ccae8a9753/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/69d30055e9e4d63b16688d85d90ed0ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/69d30055e9e4d63b16688d85d90ed0ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/28e0e1263e15233b734e5df1b67035df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/28e0e1263e15233b734e5df1b67035df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/1f44705297b2b157ba20c9592e803feb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/1f44705297b2b157ba20c9592e803feb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/a1228bc325a9366139c42593963dd1f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/a1228bc325a9366139c42593963dd1f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/bdc99b5eb0356fcbbdd83ed5790fa92b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/bdc99b5eb0356fcbbdd83ed5790fa92b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/dbd0e6552da9aacc306f4e7512c3cac7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/dbd0e6552da9aacc306f4e7512c3cac7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/bce965bb039a0021e1b016637c50ab43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/bce965bb039a0021e1b016637c50ab43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/802bda768b88f11e59a4ae7461c6cbbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/802bda768b88f11e59a4ae7461c6cbbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/e212bca85c2196cd24c4e490bc218e38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/e212bca85c2196cd24c4e490bc218e38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/e4b626f4a784bf9f1bafbe4847221c9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/e4b626f4a784bf9f1bafbe4847221c9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/efb48cbcc28cff69998e3fd8dedf3816/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/efb48cbcc28cff69998e3fd8dedf3816/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/de00a992fe37dc325f4ff5f428115824/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/de00a992fe37dc325f4ff5f428115824/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/68b1000ae4d0fc303027d492390e3d5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/68b1000ae4d0fc303027d492390e3d5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/8aef503dba1d3a2cc9986656e238a1b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/8aef503dba1d3a2cc9986656e238a1b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/77b162cb67693e298baeef0cd9784106/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/77b162cb67693e298baeef0cd9784106/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/8f87af52b7f65b71086e0f25a31fcc35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/8f87af52b7f65b71086e0f25a31fcc35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/306c81959da1cf167647bef0f1c61dae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/306c81959da1cf167647bef0f1c61dae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/d58b6f69a0d24002c74df4108561e187/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/d58b6f69a0d24002c74df4108561e187/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/a323a96d6bde3f24ac92f34205eb8c2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/onil/.gradle/caches/transforms-2/files-2.1/a323a96d6bde3f24ac92f34205eb8c2a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/onil/Downloads/android-testing-master/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
